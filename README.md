@@ -41,7 +41,7 @@ git config --global user.email "your.email@example.com"
 
 1. Run the Python script:
 ```bash
-python3 git.py
+python git.py
 ```
 
 2. When prompted:
