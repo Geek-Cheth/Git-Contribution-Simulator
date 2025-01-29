@@ -29,7 +29,7 @@ This tool is designed for educational purposes to understand:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/git-contribution-simulator
+git clone https://github.com/geek-cheth/git-contribution-simulator
 cd git-contribution-simulator
 
 # Ensure you have Git configured
